@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aymenmohsni / Aymen Mohsni
+- 👋 Hi, I’m Aymen Mohsni
 - 👀 I’m interested in JavaScript Web Development.
 - 🌱 I’m currently working on ReactJS.
 - 💞️ I’m looking to learn NodeJS and MongoDB.
-- 📫 How to reach me ... https://www.linkedin.com/in/aymen-mohsni/
+<!-- - 📫 How to reach me ... https://www.linkedin.com/in/aymen-mohsni/ -->
 
 <!---
 aymenmohsni/aymenmohsni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
