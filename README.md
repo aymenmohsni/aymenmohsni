@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aymenmohsni
-- 👀 I’m interested in JavaScript Web Development
-- 🌱 I’m currently working on ReactJS
-- 💞️ I’m looking to learn node.js and MongoDB
+- 👋 Hi, I’m @aymenmohsni / Aymen Mohsni
+- 👀 I’m interested in JavaScript Web Development.
+- 🌱 I’m currently working on ReactJS.
+- 💞️ I’m looking to learn NodeJS and MongoDB.
 - 📫 How to reach me ... https://www.linkedin.com/in/aymen-mohsni/
 
 <!---
